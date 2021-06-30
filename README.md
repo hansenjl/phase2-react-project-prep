@@ -52,3 +52,5 @@ The file will always be structured like an object with keys pointing to an array
 8. Check in the browser that you can see the data from your json server. 
 
 9. Now you are ready to fetch your data from your react app and replace any "hard-coded" data. 
+
+10. Once you have your data displaying, implement the fetch request for a POST or PATCH request to your json server. 
