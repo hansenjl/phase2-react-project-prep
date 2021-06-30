@@ -4,6 +4,7 @@
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [JSON Server Collection](https://github.com/Dane-Dawson/json-server-collection)
 - [Deploy your JSON server to heroku](https://github.com/jesperorb/json-server-heroku)
+- [Raquel's Blog on Deploying to Heroku](https://dev.to/raquii/my-first-javascript-project-became-a-lesson-in-deploying-a-rest-api-json-server-and-how-you-can-do-it-too-5gh7)
 - [JSON server documentation](https://www.npmjs.com/package/json-server)
 - [React Router Documentation](https://reactrouter.com/web/guides/quick-start)
 
@@ -27,7 +28,7 @@ Refresh the Github browser page to make sure it updated correctly.
 
 5. Create the components and routes you think you will need and hard-code in any data just so you can get the component structure and heirarchy down. 
 
-6. Spend time thikning about what you will need to keep track of in state and which components will be need access to that state. Remember, if 2 sibling components need access to the same state, it must be stored in the parent component. 
+6. Spend time thinking about what you will need to keep track of in state and which components will be need access to that state. Remember, if 2 sibling components need access to the same state, it must be stored in the parent component. 
 
 7. Set up your db.json. First install json server using this command: `npm install -g json-server`. Then create a file called db.json and add data to it. The data should be added like this: 
 ```
